@@ -13,10 +13,10 @@ body{
 form{
     display: flex;
     flex-direction: column;
-    width: 20vw;
+    width: 300px;
     justify-content: space-evenly;
     height: 39vh;
-    padding: 1vw;
+    padding: 3vw;
     border-radius: 1vw;
     box-shadow: 2px 2px 5px rgba(64, 64, 64, 0.514);
 }
