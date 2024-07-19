@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 28vh;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+    justify-content: space-evenly;
+    height: 39vh;
+    padding: 1vw;
+    border-radius: 1vw;
+    box-shadow: 2px 2px 5px rgba(64, 64, 64, 0.514);
+}
+
+span{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn{
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(111, 152, 208);
+    background-color: rgb(111, 152, 208);
+    color: white;
+}
